@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.4/EasyDesk-Setup-1.1.4.exe",
-  "sha256": "2DC7D0937CADF7B9D8E9AC3D3692892E0D1A437B74AE08381D75AA760691890B",
-  "sizeBytes": 44742393,
-  "releasedUtc": "2026-10-14T19:52:45Z",
-  "notes": "Setup saves every change instantly (Save/Cancel replaced by Close); Start with Windows applies the moment it is ticked; Setup PIN removed."
+  "version": "1.1.5",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.5/EasyDesk-Setup-1.1.5.exe",
+  "sha256": "B94EDDB4C7D18EE593E94CD88EA8E3174CA998FBCA38152255FECF7B3CF84747",
+  "sizeBytes": 44740713,
+  "releasedUtc": "2026-10-14T19:57:42Z",
+  "notes": "Help-line example now shows iSharpe\u0027s number."
 }
