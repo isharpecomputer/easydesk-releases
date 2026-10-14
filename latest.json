@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.0/EasyDesk-Setup-1.1.0.exe",
+  "sha256": "3CBA112B059A54B25B93875403A191EAD98267CDCBD0BEE1F54A5EE03FBB65C2",
+  "sizeBytes": 44736610,
+  "releasedUtc": "2026-10-14T16:06:25Z",
+  "notes": "Adds automatic updates."
+}
