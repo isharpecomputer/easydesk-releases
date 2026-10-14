@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
-  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.2/EasyDesk-Setup-1.1.2.exe",
-  "sha256": "01496A8D49030FDF45C48BFFD55FFA6992F6FF62BC23747B8D26A478A96F4814",
-  "sizeBytes": 44742504,
-  "releasedUtc": "2026-10-14T17:11:42Z",
-  "notes": "Pick several installed apps at once; website quick picks now Google, Gmail, Outlook, YouTube, Facebook, Amazon.com and eBay.com."
+  "version": "1.1.3",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.3/EasyDesk-Setup-1.1.3.exe",
+  "sha256": "804B8398AD7D15059E2C0DD5FF28CE5B8345BFDF8ACC1E020F9669C2C7337174",
+  "sizeBytes": 44736183,
+  "releasedUtc": "2026-10-14T17:31:06Z",
+  "notes": "Fixes the Start EasyDesk when Windows starts tick box on Windows 11."
 }
