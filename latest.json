@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.3/EasyDesk-Setup-1.1.3.exe",
-  "sha256": "804B8398AD7D15059E2C0DD5FF28CE5B8345BFDF8ACC1E020F9669C2C7337174",
-  "sizeBytes": 44736183,
-  "releasedUtc": "2026-10-14T17:31:06Z",
-  "notes": "Fixes the Start EasyDesk when Windows starts tick box on Windows 11."
+  "version": "1.1.4",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.4/EasyDesk-Setup-1.1.4.exe",
+  "sha256": "2DC7D0937CADF7B9D8E9AC3D3692892E0D1A437B74AE08381D75AA760691890B",
+  "sizeBytes": 44742393,
+  "releasedUtc": "2026-10-14T19:52:45Z",
+  "notes": "Setup saves every change instantly (Save/Cancel replaced by Close); Start with Windows applies the moment it is ticked; Setup PIN removed."
 }
