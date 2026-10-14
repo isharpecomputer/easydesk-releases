@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.5/EasyDesk-Setup-1.1.5.exe",
-  "sha256": "B94EDDB4C7D18EE593E94CD88EA8E3174CA998FBCA38152255FECF7B3CF84747",
-  "sizeBytes": 44740713,
-  "releasedUtc": "2026-10-14T19:57:42Z",
-  "notes": "Help-line example now shows iSharpe\u0027s number."
+  "version": "1.1.6",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.6/EasyDesk-Setup-1.1.6.exe",
+  "sha256": "8C66AB3D7408AF8DBD49C50DAEA06DAE8BED9016C0FAAC7B741048004C457D38",
+  "sizeBytes": 44743347,
+  "releasedUtc": "2026-10-14T20:22:38Z",
+  "notes": "Copy desktop icons; right-click a tile to remove it; Remove all tiles; quick folders (Pictures, Documents, Downloads, Music, Videos, Desktop)."
 }
