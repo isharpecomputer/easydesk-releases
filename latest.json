@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.7/EasyDesk-Setup-1.1.7.exe",
-  "sha256": "A835D96687EC4EBD6BE187BAA9600BF4E87A215CFB7F8933B7F99B6F12D05D8A",
-  "sizeBytes": 44743882,
-  "releasedUtc": "2026-10-14T20:46:12Z",
-  "notes": "Edit button (drag tiles to reorder) replaces the Setup button; right-click to remove sidebar items."
+  "version": "1.1.8",
+  "installerUrl": "https://github.com/isharpecomputer/easydesk-releases/releases/download/v1.1.8/EasyDesk-Setup-1.1.8.exe",
+  "sha256": "1EA5F7F0C9B3B0A86BB7C580EE20B12F35C0A572BE327AAA139DD250E7281F19",
+  "sizeBytes": 44738558,
+  "releasedUtc": "2026-10-14T20:56:04Z",
+  "notes": "Volume buttons move 5% at a time and always land on a multiple of 5."
 }
